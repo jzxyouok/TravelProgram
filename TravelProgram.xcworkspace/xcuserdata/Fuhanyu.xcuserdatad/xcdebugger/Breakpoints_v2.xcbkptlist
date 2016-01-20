@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TravelProgram/MVC/HomePage/CONTROLLER/HomePageViewController.m"
+            timestampString = "474989876.519807"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "218"
+            endingLineNumber = "218"
+            landmarkName = "-upRefresh"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[HomePageViewController upRefresh]"
+                  moduleName = "TravelProgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fuhanyu/Downloads/%E6%9B%BE%E7%BB%8F%E8%B5%84%E6%96%99/xingzheriji/code/%E6%97%85%E8%A1%8CAPP%E9%A1%B9%E7%9B%AE/TravelProgram/TravelProgram/MVC/HomePage/CONTROLLER/HomePageViewController.m"
+                  timestampString = "474989876.523303"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "279">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__35-[HomePageViewController upRefresh]_block_invoke"
+                  moduleName = "TravelProgram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Fuhanyu/Downloads/%E6%9B%BE%E7%BB%8F%E8%B5%84%E6%96%99/xingzheriji/code/%E6%97%85%E8%A1%8CAPP%E9%A1%B9%E7%9B%AE/TravelProgram/TravelProgram/MVC/HomePage/CONTROLLER/HomePageViewController.m"
+                  timestampString = "474989876.523489"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
